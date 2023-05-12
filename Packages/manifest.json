@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.cesium.unity": "file:C:/Users/Yorihiko Machida/Downloads/com.cesium.unity-1.1.0.tgz",
+    "com.cesium.unity": "file:C:/Users/yuma/Downloads/com.cesium.unity-1.2.0.tgz",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
